@@ -1,0 +1,10 @@
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasy\bin\Debug\CNGMadeEasy.dll
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasy\bin\Debug\CNGMadeEasy.pdb
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasy\obj\Debug\CNGMadeEasy.csprojResolveAssemblyReference.cache
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasy\obj\Debug\CNGMadeEasy.dll
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasy\obj\Debug\CNGMadeEasy.pdb
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasy\bin\Debug\CNGMadeEasy.dll
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasy\bin\Debug\CNGMadeEasy.pdb
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasy\obj\Debug\CNGMadeEasy.csprojResolveAssemblyReference.cache
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasy\obj\Debug\CNGMadeEasy.dll
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasy\obj\Debug\CNGMadeEasy.pdb

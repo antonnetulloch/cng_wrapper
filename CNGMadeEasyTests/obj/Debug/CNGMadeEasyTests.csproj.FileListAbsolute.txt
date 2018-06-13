@@ -1,0 +1,16 @@
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasyTests\bin\Debug\CNGMadeEasyTests.dll
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasyTests\bin\Debug\CNGMadeEasyTests.pdb
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasyTests\bin\Debug\CNGMadeEasy.dll
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasyTests\bin\Debug\CNGMadeEasy.pdb
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.csprojResolveAssemblyReference.cache
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.dll
+c:\users\atulloch\documents\visual studio 2015\Projects\CNGMadeEasy\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.pdb
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\bin\Debug\CNGMadeEasyTests.dll
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\bin\Debug\CNGMadeEasyTests.pdb
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\bin\Debug\CNGMadeEasy.dll
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\bin\Debug\CNGMadeEasy.pdb
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.csprojResolveAssemblyReference.cache
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.dll
+C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.pdb
