@@ -8,3 +8,8 @@ C:\Projects\Development\CNGMadeEasy\CNGMadeEasy\bin\Debug\CNGMadeEasy.pdb
 C:\Projects\Development\CNGMadeEasy\CNGMadeEasy\obj\Debug\CNGMadeEasy.csprojResolveAssemblyReference.cache
 C:\Projects\Development\CNGMadeEasy\CNGMadeEasy\obj\Debug\CNGMadeEasy.dll
 C:\Projects\Development\CNGMadeEasy\CNGMadeEasy\obj\Debug\CNGMadeEasy.pdb
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasy\bin\Debug\CNGMadeEasy.dll
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasy\bin\Debug\CNGMadeEasy.pdb
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasy\obj\Debug\CNGMadeEasy.csprojResolveAssemblyReference.cache
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasy\obj\Debug\CNGMadeEasy.dll
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasy\obj\Debug\CNGMadeEasy.pdb

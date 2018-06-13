@@ -38,5 +38,20 @@ namespace CNGMadeEasy.Tests
             Assert.IsNotNull(result);
             Assert.AreEqual(result, expectedResult, false);
         }
+
+        [TestMethod]
+        public void ExportKeyTest()
+        {
+            //arrange
+            string keyName = "TestKey";
+
+            //act
+            var cng = new CNGWrapper();
+            var actual = cng.ExportKey(keyName);
+
+            //assert
+            Assert.IsNotNull(actual);
+            Assert.IsTrue(actual != string.Empty);
+        }
     }
 }

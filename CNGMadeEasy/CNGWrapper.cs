@@ -35,5 +35,28 @@ namespace CNGMadeEasy
 
             return decodedString;
         }
+
+        public string ExportKey(string keyName)
+        {
+            CngKey key;
+            if (CngKey.Exists(keyName))
+                key = CngKey.Open(keyName);
+            else
+                key = CngKey.Create(CngAlgorithm.Rsa, keyName,
+                    new CngKeyCreationParameters { ExportPolicy = CngExportPolicies.AllowPlaintextArchiving });
+
+            var keyBytes = key.Export(CngKeyBlobFormat.GenericPublicBlob);
+
+            return Convert.ToBase64String(keyBytes);
+        }
+
+        public void ImportKey(string keyName, string base64EncodedKey)
+        {
+            var keyBytes = Convert.FromBase64String(base64EncodedKey);
+            if (keyBytes == null)
+                throw new ArgumentException("Invalid key");
+
+            CngKey.Import(keyBytes, CngKeyBlobFormat.GenericPublicBlob);
+        }
     }
 }

@@ -14,3 +14,11 @@ C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\bin\Debug\CNGMadeEasy.pdb
 C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.csprojResolveAssemblyReference.cache
 C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.dll
 C:\Projects\Development\CNGMadeEasy\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.pdb
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasyTests\bin\Debug\CNGMadeEasyTests.dll
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasyTests\bin\Debug\CNGMadeEasyTests.pdb
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasyTests\bin\Debug\CNGMadeEasy.dll
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasyTests\bin\Debug\CNGMadeEasy.pdb
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.csprojResolveAssemblyReference.cache
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.dll
+C:\Users\atulloch\Source\Repos\cng_wrapper\CNGMadeEasyTests\obj\Debug\CNGMadeEasyTests.pdb
